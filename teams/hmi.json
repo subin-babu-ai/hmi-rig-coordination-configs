@@ -1,0 +1,14 @@
+{
+  "label": "hmi",
+  "nudge_delay_secs": 600,
+  "kick_vote_delay_secs": 1500,
+  "auto_reminder_secs": 1200,
+  "rigs": [
+    { "name": "zeus",   "logo": "⚡" },
+    { "name": "hades",  "logo": "💀" },
+    { "name": "hera",   "logo": "👑" },
+    { "name": "ares",   "logo": "⚔️" },
+    { "name": "kbbq",   "logo": "🔥" },
+    { "name": "raichu", "logo": "🐭" }
+  ]
+}

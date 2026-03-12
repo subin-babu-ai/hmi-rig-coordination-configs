@@ -1,0 +1,11 @@
+{
+  "label": "core-os",
+  "nudge_delay_secs": 1800,
+  "kick_vote_delay_secs": 3900,
+  "auto_reminder_secs": 3600,
+  "rigs": [
+    { "name": "poseidon", "logo": "🔱" },
+    { "name": "mudkip",   "logo": "💧" },
+    { "name": "snivy",    "logo": "🌿" }
+  ]
+}

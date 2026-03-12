@@ -1,0 +1,7 @@
+{
+  "label": "unreal",
+  "nudge_delay_secs": 300,
+  "kick_vote_delay_secs": 600,
+  "auto_reminder_secs": 1200,
+  "rigs": []
+}
