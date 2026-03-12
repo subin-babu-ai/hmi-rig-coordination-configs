@@ -1,0 +1,4 @@
+# .github/CODEOWNERS
+
+# Repo owner must review all changes to the teams folder
+/teams/ @subin-babu-ai
